@@ -30,6 +30,7 @@ namespace QuanLyNhaSach
         private void frmThutien_Load(object sender, EventArgs e)
         {
             //fhhgfgfgf
+            //ffgfggfffgfgfgdffg
         }
     }
 }
