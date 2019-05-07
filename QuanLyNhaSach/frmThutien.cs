@@ -26,5 +26,10 @@ namespace QuanLyNhaSach
         {
             this.Close();
         }
+
+        private void frmThutien_Load(object sender, EventArgs e)
+        {
+            //fhhgfgfgf
+        }
     }
 }
